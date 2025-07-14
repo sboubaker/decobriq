@@ -1,4 +1,4 @@
-// Configuration object with folder structure
+// Configuration object with folder structure - CORRECTED VERSION
 const DOCS_STRUCTURE = {
     "1_Market_Consumer_Study": {
         title: "Market & Consumer Study",
@@ -147,7 +147,10 @@ function initializeNavigation() {
         submenu.className = 'submenu';
         submenu.id = `submenu-${folderId}`;
         
-        folderData.files.forEach(file => {
+        // Sort files alphabetically for better organization
+        const sortedFiles = [...folderData.files].sort((a, b) => a.localeCompare(b));
+        
+        sortedFiles.forEach(file => {
             const submenuItem = document.createElement('li');
             const submenuLink = document.createElement('a');
             submenuLink.className = 'submenu-link';
