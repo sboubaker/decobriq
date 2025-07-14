@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DecoBriq Docs</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <nav class="sidebar">
+            <div class="sidebar-header">
+                <h1>DecoBriq Docs</h1>
+                <p>Documentation Hub</p>
+            </div>
+            <div class="sidebar-content">
+                <ul class="nav-menu" id="navMenu">
+                    <!-- Navigation will be populated by JavaScript -->
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="content-header">
+                <h1 id="pageTitle">Welcome to DecoBriq Docs</h1>
+                <div class="breadcrumb" id="breadcrumb">
+                    <span>Home</span>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="markdownContent" class="markdown-content">
+                    <div class="welcome-message">
+                        <h2>📚 Welcome to DecoBriq Documentation</h2>
+                        <p>This documentation hub contains comprehensive information about DecoBriq's various studies and analyses. Use the navigation menu on the left to explore different sections.</p>
+                        
+                        <div class="stats-grid">
+                            <div class="stat-card">
+                                <h3>11</h3>
+                                <p>Study Categories</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>Multiple</h3>
+                                <p>Research Documents</p>
+                            </div>
+                            <div class="stat-card">
+                                <h3>Tunisia</h3>
+                                <p>Market Focus</p>
+                            </div>
+                        </div>
+
+                        <div class="quick-links">
+                            <h3>Quick Access</h3>
+                            <ul>
+                                <li><a href="#" onclick="loadMarkdown('1_Market_Consumer_Study/Insulation_Market_Demand_Tunisia.md')">Market Demand Analysis</a></li>
+                                <li><a href="#" onclick="loadMarkdown('2_Waste_Supply_Composition_Study/Textile_Waste_Supply_and_Composition_Tunisia.md')">Waste Supply Study</a></li>
+                                <li><a href="#" onclick="loadMarkdown('3_Tech_Production_Feasibility/Tech_Production_Feasibility_Machinery_Tunisia.md')">Production Feasibility</a></li>
+                                <li><a href="#" onclick="loadMarkdown('11_Stakholders/stakeholders.md')">Stakeholders Overview</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

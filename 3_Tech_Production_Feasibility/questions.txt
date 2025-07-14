@@ -1,0 +1,27 @@
+3. Tech & Production Feasibility
+
+a. What machinery (shredders, presses, sewing systems) is available locally and at what cost?
+What Tunisian, Chineese, european or Maghreb suppliers exist for industrial shredders?
+What are lead times (e.g. importing delays, customs workflows)?
+Which warranties, spare-parts, or service support are available locally?
+What binders/coatings are needed, and can we produce/acquire them in Tunisia?
+
+b. What technical skills and training programs exist (students, vocational)?
+Which Tunisian institutes offer textile or mechanical training?
+Are apprenticeship programs available (e.g. CITET, UTICA)?
+What's the cost and timeline to train staff up to production level?
+
+c. Can local manufacturers or service providers supply and maintain equipment?
+Which local firms specialize in industrial machine maintenance?
+What’s the average cost/time to service a shredder or sewing line?
+Is preventive maintenance common or will we need to build capacity?
+
+d. What's the energy and water consumption per m² of product?
+How many kWh are needed for shredding/pressing per m²?
+Is water usage negligible (dry process) or does anything require wet processing?
+Are alternative power options (solar, off-peak rates) viable in Tunisia?
+
+e. What waste or emissions are generated during production—how will they be treated?
+Does shredding generate dust or microfiber—what filters are needed?
+Are there any wastewater streams from cleaning/fabric prep?
+What are disposal options/costs for any residual scrap?

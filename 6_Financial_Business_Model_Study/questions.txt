@@ -1,0 +1,26 @@
+6. Financial & Business Model Study
+
+a. Estimate CAPEX per m² (machinery, rent, utilities, labor).
+How many m² of insulation can be produced per month with planned equipment?
+What depreciation schedule (5 years?) applies to machinery in Tunisia?
+How do utility costs (electricity, rent per m²) scale with volume?
+
+b. Calculate OPEX per m² (materials, staff, packaging, marketing).
+What is the total labor time required to produce and install 1 m²?
+What is local cost of consumables (thread, adhesives, packaging)?
+How do distribution costs per m² vary by region?
+
+c. What pricing yields viable margins at different sales volumes?
+At what price per m² do we break even at 10%, 25%, and 50% capacity?
+What margin is needed to sustain 30% annual revenue growth?
+How sensitive are margins to input cost inflation (energy, labor, waste)?
+
+d. What funding sources and interest rates are available locally/regionally?
+What are bank loan rates for SMEs (onshore/offshore) in Tunisia?
+Are grants available with no equity dilution?
+Can crowdfunding or diaspora investors be mobilized?
+
+e. How might currency devaluation or power outages impact cost/revenue?
+What is the projected dinar inflation rate, and how will it affect revenue over 5 years?
+Can energy backup (solar/Genset) maintain production during outages—and at what cost?
+How can we hedge currency risk on imported equipment?

@@ -1,0 +1,22 @@
+4. Environmental Impact & LCA Study
+
+a. Calculate CO2 and water savings per m² vs conventional insulation materials.
+What are CO2 eq. and water usage per m² of mineral wool, foam, etc., vs Deco'Briq?
+Can our local energy mix or water scarcity change results?
+What payback period (in energy saved vs embodied emissions) is realistic?
+
+b. Quantify microfiber release or dye leaching – is treatment required?
+During shredding or installation, are microfibers likely to release?
+Do we need dust masks or ventilation systems to protect workers?
+Would wastewater filters need microfiber-poor outflow?
+What thermal/acoustic R-value and density specs must our Deco'Briq bricks meet?
+
+c. Do reused-textile panels meet international/Gulf/EU environmental standards?
+What tests (ISO, EN, ASTM) are needed to certify fire resistance and VOCs?
+Are there standards for acoustic performance we must meet locally?
+What is the cost/time for each compliance test?
+
+d. Can materials qualify for ecolabels (ISO 14001, national green standards)?
+Which Tunisian standards (e.g., TTGT, NT 105.0x) are relevant?
+What's required to get ISO 14001 or equivalent third-party certification?
+Can we get EU ecolabels for export products?
